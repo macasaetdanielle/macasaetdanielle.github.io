@@ -1,2 +1,2 @@
 # macasaetdanielle.github.io
-  DESN340_P1_Part5
+  How do I upload my projects properly?
