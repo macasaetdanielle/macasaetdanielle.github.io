@@ -1,2 +1,2 @@
 # macasaetdanielle.github.io
-  DESN340_P1_Part5_MacasaetDanielle
+  DESN340_P1_Part5
